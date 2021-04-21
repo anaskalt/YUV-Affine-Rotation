@@ -7,5 +7,5 @@ The source code of this script has been optimized with loop optimization techniq
 * [Loop interchange](https://en.wikipedia.org/wiki/Loop_interchange)
 
 
-## Before rotation            ## After rotation
+## Before rotation              After rotation
 ![before](/images/before.PNG)  ![after](/images/after.PNG)
