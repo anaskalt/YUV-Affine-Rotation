@@ -4,8 +4,8 @@
 
 #define N 330 /* height */
 #define M 440 /* width */
-#define filename "dog_440x330.yuv"
-#define file_yuv "dog_440x330_rotated.yuv"
+#define filename "/images/dog_440x330.yuv"
+#define file_yuv "/images/dog_440x330_rotated.yuv"
 #define PI 3.14159265
 
 /* code for armulator*/
