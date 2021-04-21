@@ -8,4 +8,4 @@ The source code of this script has been optimized with loop optimization techniq
 
 
 ## Before rotation              After rotation
-![before](/images/before.PNG)  ![after](/images/after.PNG)
+![before](/images/before.png)  ![after](/images/after.png)
