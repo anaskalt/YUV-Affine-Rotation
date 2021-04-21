@@ -1,7 +1,7 @@
 # YUV-Affine-Rotation
 
-## Example
-
+## Before rotation
 ![before](/images/before.PNG)
 
+## After rotation
 ![after](/images/after.PNG)
