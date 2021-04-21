@@ -2,6 +2,6 @@
 
 ## Example
 
-![before]()
+![before](/images/before.PNG)
 
-![after]()
+![after](/images/after.PNG)
